@@ -17,9 +17,9 @@
             "productIdentifier": 888455511
         },
         {
-            "name": "Farm Beats Data Collector",
-            "url": "https://github.com/microsoft/pxt-jacdac/releases/latest/download/farm-beats.hex",
-            "productIdentifier": 508816440
+            "name": "Dongle",
+            "url": "https://github.com/microsoft/pxt-jacdac/releases/latest/download/microbit-dongle.hex",
+            "productIdentifier": 941528667
         }
     ],
     "bootloader": {
